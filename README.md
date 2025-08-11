@@ -1,5 +1,3 @@
-- 👋 Hi, I’m BinhBiz
-- 👀 I love programming on digital platforms
 <!---
 thanhbinh0707/thanhbinh0707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -9,10 +7,11 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-- 🎯 I’m currently working on **Backend Projects with Spring Boot**
-- 🌱 I’m currently learning **Spring Security, Docker, CI/CD**
-- 🤝 I’m looking to collaborate on **Java & Backend Development Projects**
-- ⚡ Fun fact: **I love playing badminton 🏸 and cooking 🍳**
+- 👀 I love programming on digital platforms  
+- 🎯 I’m currently working on **Backend Projects with Spring Boot**  
+- 🌱 I’m currently learning **Spring Security, Docker, CI/CD and Flutter**  
+- 🤝 I’m looking to collaborate on **Java & Backend Development Projects**  
+- ⚡ Fun fact: **I love playing badminton 🏸 and football ⚽**  
 
 ---
 
@@ -37,13 +36,18 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+## 🌐 Connect with me:
+<p align="left">
+  <a href="mailto:thanhbinhll700@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/thanh-b%C3%ACnh-1928522bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
 </p>
 
+---
+
+> 💡 _"Keep learning, keep growing."_ ✨
