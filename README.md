@@ -2,7 +2,7 @@
 thanhbinh0707/thanhbinh0707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Lê Thanh Bình</h1>
+<h1 align="center">Hi 👋, I'm BinhBiz</h1>
 <h3 align="center">Backend Developer | Java Spring Boot Enthusiast 🚀</h3>
 
 ---
