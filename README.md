@@ -22,6 +22,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/thanhbinh0707?tab=followers">
     <img src="https://img.shields.io/github/followers/thanhbinh0707?label=Followers&style=flat&color=blue" alt="followers" />
   </a>
+  <a href="https://github.com/thanhbinh0707?tab=repositories">
+    <img src="https://img.shields.io/github/stars/thanhbinh0707?style=flat&color=blue" alt="stars" height="35" />
+  </a>
 </p>
 
 ---
