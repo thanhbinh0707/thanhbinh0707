@@ -16,15 +16,9 @@ You can click the Preview link to take a look at your changes.
 ---
 
 <p align="center">
-  <a href="https://github.com/thanhbinh0707">
-    <img src="https://komarev.com/ghpvc/?username=thanhbinh0707&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-  <a href="https://github.com/thanhbinh0707?tab=followers">
-    <img src="https://img.shields.io/github/followers/thanhbinh0707?label=Followers&style=flat&color=blue" alt="followers" />
-  </a>
-  <a href="https://github.com/thanhbinh0707?tab=repositories">
-    <img src="https://img.shields.io/github/stars/thanhbinh0707?style=flat&color=blue" alt="stars" height="35" />
-  </a>
+  <a href="https://github.com/thanhbinh0707"><img src="https://komarev.com/ghpvc/?username=thanhbinh0707&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></a>
+  <a href="https://github.com/thanhbinh0707?tab=followers"><img src="https://img.shields.io/github/followers/thanhbinh0707?label=Followers&style=flat&color=blue" alt="followers" /></a>
+  <a href="https://github.com/thanhbinh0707?tab=repositories"><img src="https://img.shields.io/github/stars/thanhbinh0707?style=flat&color=blue" alt="stars" height="35" /></a>
 </p>
 
 ---
@@ -48,7 +42,8 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
   <a href="mailto:thanhbinhll700@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/thanh-b%C3%ACnh-1928522bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
+  <a href="https://discord.gg/yourinvitecode"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+
 </p>
 
 ---
